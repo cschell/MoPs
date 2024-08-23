@@ -19,8 +19,7 @@ We recommend using a virtual environment to manage dependencies. Follow the setu
    ```
 
 3. **Pull data files:**
-
-Install [DVC](https://dvc.org), and then `dvc pull`.
+    Install [DVC](https://dvc.org), and then `dvc pull`.
 
 ## Data
 
