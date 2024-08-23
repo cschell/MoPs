@@ -2,6 +2,10 @@
 
 This repository hosts the code for the paper "Motion Passwords" by Rack et al., which will be published in the Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology (VRST 2024). The paper introduces Motion Passwords, a novel biometric verification method for VR environments, where users verify their identity by writing a chosen word in 3D space.
 
+## Setup
+
+After cloning, make sure to install [DVC](https://dvc.org/doc/install) and pull all data files with `dvc pull`.
+
 ## Repository Structure
 
 The repository is structured into two subfolders:

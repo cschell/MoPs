@@ -4,7 +4,7 @@ This repository contains scripts for preprocessing the Motion Password (MoP) dat
 
 ## Dataset
 
-You find the dataset in a [separate repository]().
+You find the dataset in a [separate repository](). However, this is only required by the first scripts (`01-preprocess-*.py`), later scripts use the `intermediate/` file, which you can pull via [DVC](https://dvc.org) with `dvc pull`.
 
 ## Install Instructions
 
