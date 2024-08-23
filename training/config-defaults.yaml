@@ -1,0 +1,57 @@
+fps:
+  desc: null
+  value: 30
+arch:
+  desc: null
+  value: RNNTransformer
+nhead:
+  desc: null
+  value: 16
+d_model:
+  desc: null
+  value: 896
+rnn_type:
+  desc: null
+  value: GRU
+batch_size:
+  desc: null
+  value: 500
+num_layers:
+  desc: null
+  value: 2
+rnn_dropout:
+  desc: null
+  value: 0
+data_encoding:
+  desc: null
+  value: BRA
+learning_rate:
+  desc: null
+  value: 2.168553124337685e-05
+dropout_frames:
+  desc: null
+  value: 0.15
+dropout_global:
+  desc: null
+  value: 0
+embedding_size:
+  desc: null
+  value: 320
+num_rnn_layers:
+  desc: null
+  value: 1
+dim_feedforward:
+  desc: null
+  value: 384
+rnn_hidden_size:
+  desc: null
+  value: 384
+arc_face_loss_scale:
+  desc: null
+  value: 20
+arc_face_loss_margin:
+  desc: null
+  value: 1.2824628964750275
+arc_face_loss_weight_reg_weight:
+  desc: null
+  value: 0.0044789999999999995

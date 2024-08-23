@@ -1,0 +1,6 @@
+outs:
+- md5: 5d04d3a28efa786a66501300f532634d.dir
+  size: 815023948
+  nfiles: 3
+  hash: md5
+  path: intermediate

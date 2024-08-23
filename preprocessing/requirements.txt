@@ -1,0 +1,7 @@
+pandas
+numpy
+tqdm
+motion-learning-toolbox>=1.0.6
+pyarrow
+matplotlib
+seaborn

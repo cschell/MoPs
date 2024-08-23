@@ -1,0 +1,10 @@
+.env
+.DS_Store
+*.pyc
+__pycache__
+*.npz
+*.feather
+*.parquet
+.DS_Store
+.vscode
+.idea
