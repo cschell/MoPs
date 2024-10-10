@@ -18,8 +18,8 @@ Both subfolders have dedicated README files with detailed instructions.
 
 ## Related Repositories
 
-- [Motion Password Dataset](link): This repository hosts the Motion Password dataset used in the study.
-- [Unity Prototype](link): This repository hosts the Unity prototype introduced in the paper.
+- [Motion Password Dataset]([link](https://github.com/cschell/MoPs-Dataset)): This repository hosts the Motion Password dataset used in the study.
+- [Unity Prototype (coming soon)](#): This repository hosts the Unity prototype introduced in the paper.
 
 ## Citation
 
