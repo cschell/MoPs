@@ -2,7 +2,7 @@
 
 ![Motion Passwords Teaser](./teaser.png)
 
-This repository hosts the code for the paper "Motion Passwords" by Rack et al., which will be published in the Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology (VRST 2024). The paper introduces Motion Passwords, a novel biometric verification method for VR environments, where users verify their identity by writing a chosen word in 3D space.
+This repository hosts the code for the paper "Motion Passwords" by Rack et al., which has been published at [VRST 2024](https://dl.acm.org/doi/10.1145/3641825.3687711). The paper introduces Motion Passwords, a novel biometric verification method for VR environments, where users verify their identity by writing a chosen word in 3D space.
 
 ## Setup
 
